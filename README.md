@@ -14,4 +14,4 @@ A firefox theme based on [Gruvbox](https://github.com/morhetz/gruvbox "Gruvbox")
 - Edit the manifest.json file.
 
 ### Startpage
-- Found [here](https://github.com/simonerlic/Minimal-Startpage)
+- Found [here](https://github.com/Metsugami/Minimal-Startpage)
