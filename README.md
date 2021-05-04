@@ -1,7 +1,7 @@
 
 ### Gruvbox Green Firefox Theme
 
-![Imgur](https://i.imgur.com/lbiUgK8.png)
+![Imgur](https://i.imgur.com/oobHspN.png)
 
 
 A firefox theme based on [Gruvbox](https://github.com/morhetz/gruvbox "Gruvbox") color scheme.
