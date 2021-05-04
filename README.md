@@ -12,3 +12,6 @@ A firefox theme based on [Gruvbox](https://github.com/morhetz/gruvbox "Gruvbox")
 ### How to contribute
 - Clone the repo.
 - Edit the manifest.json file.
+
+### Startpage
+- Found [here](https://github.com/simonerlic/Minimal-Startpage)
